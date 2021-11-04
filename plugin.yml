@@ -1,0 +1,3 @@
+name: zLicense
+version: 1.0-SNAPSHOT
+main: zplugins.zlicense.Main
